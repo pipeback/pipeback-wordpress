@@ -68,5 +68,8 @@ Visit our [Help Center](https://help.pipeback.com) or reach out from inside your
 
 == Changelog ==
 
+= 1.0.1 =
+* Added a prevent duplicate loading of the Pipeback widget
+
 = 1.0.0 =
 * Initial release: Embed the Pipeback widget by entering your Workspace ID
